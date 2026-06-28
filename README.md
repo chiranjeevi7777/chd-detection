@@ -69,7 +69,7 @@ Chd_project/
 ### 1. Interactive Web Interface (Streamlit)
 To launch the beautiful web dashboard:
 ```bash
-streamlit run app2.py
+streamlit run app.py
 ```
 *Features:*
 - Upload any Chest X-ray image (JPG, PNG, BMP).
