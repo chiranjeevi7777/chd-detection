@@ -1,0 +1,12 @@
+tensorflow>=2.11.0
+scikit-learn
+pandas
+numpy
+Pillow
+joblib
+tqdm
+streamlit
+tabulate
+matplotlib
+seaborn
+opencv-python
